@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Conmplaint System</h1>
+<h1 align="center">Selamat datang di Complaint System</h1>
 
 
 
@@ -49,7 +49,7 @@ Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan sisw
     -   <i>User</i>
 -   Pencarian <i>Complaint</i> di <i>Homepage</i>
 
-<h2 id="testing-account">👤 Default Account for Testing</h2>
+<h2 id="testing-account"> Default Account for Testing</h2>
 
 #### Admin
 
@@ -66,18 +66,18 @@ Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan sisw
 -   Username: nata.ardhana
 -   Password: password
 
-<h2 id="demo">🏠 Demo Page</h2>
+<h2 id="demo"> Demo Page</h2>
 
 <p>Halaman demo saat ini tidak tersedia. Oleh karenanya, lebih baik kamu mencoba di <i>local</i> dengan mengikuti tahapan instalasi di bawah ini.</p>
 
-<h2 id="syarat">💾 Pre-requisite</h2>
+<h2 id="syarat"> Pre-requisite</h2>
 
 <p>Berikut adalah <i>pre-requisite</i> yang diperlukan ketika melakukan instalasi dan <i>running</i> aplikasi.</p>
 
 -   PHP ^8.0 & Web Server (XAMPP, LAMPP, MAMPP, atau Laragon)
 -   Web Browser (Chrome, Firefox, Safari, Opera, atau Brave)
 
-<h2 id="download">💻 Install</h2>
+<h2 id="download"> Install</h2>
 
 1. Clone repository
 
