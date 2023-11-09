@@ -5,27 +5,26 @@
     <section class="row">
         <div class="col-12 mb-3 header-about bg-about">
             <div class="container text-center mt-2 mt-sm-5">
-                <h1 class="text-white">Apa itu Sispaldeba?</h1>
+                <h1 class="text-white">Apa itu Sispalsmanda?</h1>
                 <img src="{{ asset('images/about.png') }}" alt="about illustration" class="illust-about">
             </div>
         </div>
 
         <div class="col-12">
             <div class="container mt-4 text-center ">
-                <p class="fs-5 px-sm-5"> Confess merupakan tempat bagi kalian yang menjadi bagian siswa/i SMKN 4 Kota
-                    Tangerang untuk memberi kritik, saran, ataupun Aspirasi kalian selama menjadi siswa/i di sekolah
+                <p class="fs-5 px-sm-5"> Sispalsmanda adalah tempat bagi kalian yang menjadi bagian siswa/i SMAN 02 Brebes untuk memberi kritik, saran, ataupun Aspirasi kalian selama menjadi siswa/i di sekolah
                     ini. dengan dibuatnya aplikasi ini kami berharap kalian semua menjadi lebih berani dan terbuka
                     kepada sekolah untuk mengatasi permasalahan - permasalahan yang ada. </p>
                 <h2 class="mt-5 mb-4">
-                    Kenapa diciptakan nya Sispaldeba?
+                    Kenapa diciptakan nya Sispalsmanda?
                 </h2>
                 <p class="fs-5 px-sm-5">Karena kami melihat banyak sekali tindakan tindakan yang tidak mencerminkan
                     seorang siswa/i sekolah seperti pemalakan, pembulian, pencurian dan masih banyak lagi yang terjadi
-                    di sekolah ini, dengan adanya Confess kami ingin membantu siswa/i yang menjadi korban untuk
-                    melaporkan masalah ini ke guru ataupun staff yang ada di sekolah ini melalui Confess. Jadi kami bisa
+                    di sekolah ini, dengan adanya Sispalsmanda kami ingin membantu siswa/i yang menjadi korban untuk
+                    melaporkan masalah ini ke guru ataupun staff yang ada di sekolah ini melalui Sispalsmanda. Jadi kami bisa
                     sedikit demi sedikit memberantas tindakan tindakan seperti itu. Selain itu Confess juga bisa
                     digunakan sebagai wadah untuk kalian yang mempunyai ide ide kreatif yang dapat membangun
-                    karakteristik SMKN 4 Kota Tangerang.
+                    karakteristik SMAN 02 Brebes.
                 </p>
 
                 <div class="text-center">

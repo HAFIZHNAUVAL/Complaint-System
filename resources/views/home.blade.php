@@ -7,9 +7,9 @@
             <div class="container pt-2 pt-sm-5">
                 <div class="row d-flex align-items-center text-sm-start text-center">
                     <div class="col-md-6 col-12" style="z-index: 10">
-                        <h1 class="text-white fw-bold">Sistem Pengajuan Permohonan dan Pengaduan Masyarakat Online</h1>
+                        <h1 class="text-white fw-bold">Sistem Pengaduan Siswa/i Online</h1>
                         <p class="text-white fs-4 pt-3 pt-sm-4 w-100 ">
-                            Melayani Masyarakat Dalam Pengajuan Permohonan dan Penyampaian Aduan
+                            Melayani Seluruh Siswa SMAN 02 Brebes dalam Pengaduan Laporan
                         </p>
                     </div>
                     <div class="col text-center text-md-end mt-5 mt-sm-0">
@@ -28,52 +28,6 @@
                 </div>
             </div>
             @endif
-            <br>
-            <center>
-                <div class="col-12 mb-5">
-                    <h2 class="text-center">Alur Layanan</h2>
-                </div>
-            </center>
-            <div class="container">
-                <div class="garis"></div>
-                <div class="row alur-lapor mt-5 d-flex text-center align-content-start">
-                    <div class="col">
-                        <div class="ellipse">
-                            <img src="{{ asset('images/icon/edit-property.svg') }}" alt="icon" width="32">
-                        </div>
-                        <h5 class="mt-2">Tulis Laporan</h5>
-                        <p class="d-md-block d-none">Tuliskan laporan kamu secara menyeluruh.</p>
-                    </div>
-                    <div class="col">
-                        <div class="ellipse">
-                            <img src="{{ asset('images/icon/in-progress.svg') }}" alt="icon" width="36">
-                        </div>
-                        <h5 class="mt-2">Proses Verifikasi</h5>
-                        <p class="d-md-block d-none">Laporan kamu akan diverifikasi dan diteruskan.</p>
-                    </div>
-                    <div class="col">
-                        <div class="ellipse">
-                            <img src="{{ asset('images/icon/messaging.svg') }}" alt="icon" width="37">
-                        </div>
-                        <h5 class="mt-2">Tindak Lanjut</h5>
-                        <p class="d-md-block d-none">Petugas akan menindak-lanjuti laporan kamu.</p>
-                    </div>
-                    <div class="col">
-                        <div class="ellipse">
-                            <img src="{{ asset('images/icon/chat-bubble.svg') }}" alt="icon" width="37">
-                        </div>
-                        <h5 class="mt-2">Dapat Tanggapan</h5>
-                        <p class="d-md-block d-none">Laporan kamu akan di tanggapi oleh petugas.</p>
-                    </div>
-                    <div class="col">
-                        <div class="ellipse">
-                            <img src="{{ asset('images/icon/done.svg') }}" alt="icon" width="37">
-                        </div>
-                        <h5 class="mt-2">Selesai</h5>
-                        <p class="d-md-block d-none">Selamat, laporan kamu sudah terselesaikan!</p>
-                    </div>
-                </div>
-            </div>
             <br>
             <center>
                 <div class="col-12 mb-5">
@@ -120,6 +74,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-12 text-center mt-5">
                     @can('student')
@@ -142,7 +97,7 @@
             <div class="container">
                 <div class="row my-5">
                     <div class="col-12 mb-5">
-                        <h2 class="text-center">Keuntungan Menggunakan {{ config('web_config')['WEB_TITLE'] }}</h2>
+                        <h2 class="text-center">Keuntungan Menggunakan Sispalsmanda</h2>
                     </div>
                     <div class="row card-keuntungan d-block d-md-flex justify-content-center text-center mx-auto">
                         <div class="col">

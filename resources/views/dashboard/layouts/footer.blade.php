@@ -8,7 +8,7 @@
                         alt="logo smkn 4 kota tangerang"width="100%">
                     <span class="ms-2">SMK NEGERI 4 TANGERANG</span>
                 </div> -->
-                <h1>Sispaldeba</h1>
+                <h1>Sispalsmanda</h1>
             </div>
             <div class="col pt-5 text-center">
                 <!-- <p class="fw-bold fs-3 pt-0 pb-4 pt-sm-4 pb-sm-0 hashtag">#JANGANTAKUTLAPOR!</p> -->
@@ -26,7 +26,7 @@
         </div>
         <div class="row mx-auto w-100">
             <div class="col-12 text-center">
-                <p>Copyright © 2023 Sispaldeba. All rights reserved</p>
+                <p>Copyright © 2023 Sispalsmanda. All rights reserved</p>
             </div>
         </div>
     </div>

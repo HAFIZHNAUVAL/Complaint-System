@@ -5,7 +5,7 @@
                 <div class="logo">
                     <a href="/" class="d-flex align-items-end">
                         <!-- <img src="{{ asset('images/logo.png') }}" alt="Logo" width="80" /> -->
-                        <span class="fs-5 fw-bold">SISPALDEBA</span>
+                        <span class="fs-5 fw-bold">Sispalsmanda</span>
                     </a>
                 </div>
                 <div class="theme-toggle d-flex gap-2 align-items-center mt-2">

@@ -10,7 +10,7 @@
                     alt="Logo {{ config('web_config')['WEB_TITLE'] }}">
             @endif -->
 
-            <h3>Sispaldeba</h3>
+            <h3>Sispalsmanda</h3>
 
         </a>
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
