@@ -1,14 +1,14 @@
-<h1 align="center">Selamat datang di Complaint System</h1>
+<h1 align="center">Selamat datang di Sispalsmanda</h1>
 
 
 
 ---
 
-<h2 id="tentang"> Apa itu Complaintfess?</h2>
+<h2 id="tentang"> Apa itu Sispalsmanda?</h2>
 
 Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/siswi untuk melaporkan masalah, keluhan, saran, dan kritik mereka secara online.
 
-<h2 id="fitur"> Fitur apa saja yang tersedia di Confess?</h2>
+<h2 id="fitur"> Fitur apa saja yang tersedia di Sispalsmanda?</h2>
 
 -   [Mazer Bootstrap Template](https://github.com/zuramai/mazer)
     -   <i>Dark</i> dan <i>Light</i> mode
