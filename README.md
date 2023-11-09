@@ -6,7 +6,7 @@
 
 <h2 id="tentang"> Apa itu Sispalsmanda?</h2>
 
-Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/siswi untuk melaporkan masalah, keluhan, saran, dan kritik mereka secara online.
+Sispalsmanda adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/siswi untuk melaporkan masalah, keluhan, saran, dan kritik mereka secara online.
 
 <h2 id="fitur"> Fitur apa saja yang tersedia di Sispalsmanda?</h2>
 
