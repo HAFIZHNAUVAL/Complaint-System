@@ -82,8 +82,8 @@ Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan sisw
 1. Clone repository
 
 ```bash
-git clone https://github.com/alfianchii/confess.git
-cd confess
+git clone (https://github.com/HAFIZHNAUVAL/Complaint-System.git)
+cd Complaint-System
 composer install
 npm install
 copy .env.example .env
