@@ -1,17 +1,14 @@
-<h1 align="center">Selamat datang di Confess! 👋</h1>
+<h1 align="center">Selamat datang di Complaint System</h1>
 
-![Landing Page](https://github.com/alfianchii/confess/blob/main/public/images/Confess-Welcome.png?raw=true)
 
-[![All Contributors](https://img.shields.io/github/contributors/alfianchii/confess)](https://github.com/alfianchii/confess/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/alfianchii/confess)
 
 ---
 
-<h2 id="tentang">🤔 Apa itu Confess?</h2>
+<h2 id="tentang"> Apa itu Complaintfess?</h2>
 
-Confess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/siswi untuk melaporkan masalah, keluhan, saran, dan kritik mereka secara online.
+Complaintfess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/siswi untuk melaporkan masalah, keluhan, saran, dan kritik mereka secara online.
 
-<h2 id="fitur">🤨 Fitur apa saja yang tersedia di Confess?</h2>
+<h2 id="fitur"> Fitur apa saja yang tersedia di Confess?</h2>
 
 -   [Mazer Bootstrap Template](https://github.com/zuramai/mazer)
     -   <i>Dark</i> dan <i>Light</i> mode
@@ -52,7 +49,7 @@ Confess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/sisw
     -   <i>User</i>
 -   Pencarian <i>Complaint</i> di <i>Homepage</i>
 
-<h2 id="testing-account">👤 Default Account for Testing</h2>
+<h2 id="testing-account"> Default Account for Testing</h2>
 
 #### Admin
 
@@ -69,18 +66,18 @@ Confess adalah aplikasi pelaporan pengaduan sekolah yang memungkinkan siswa/sisw
 -   Username: nata.ardhana
 -   Password: password
 
-<h2 id="demo">🏠 Demo Page</h2>
+<h2 id="demo"> Demo Page</h2>
 
 <p>Halaman demo saat ini tidak tersedia. Oleh karenanya, lebih baik kamu mencoba di <i>local</i> dengan mengikuti tahapan instalasi di bawah ini.</p>
 
-<h2 id="syarat">💾 Pre-requisite</h2>
+<h2 id="syarat"> Pre-requisite</h2>
 
 <p>Berikut adalah <i>pre-requisite</i> yang diperlukan ketika melakukan instalasi dan <i>running</i> aplikasi.</p>
 
 -   PHP ^8.0 & Web Server (XAMPP, LAMPP, MAMPP, atau Laragon)
 -   Web Browser (Chrome, Firefox, Safari, Opera, atau Brave)
 
-<h2 id="download">💻 Install</h2>
+<h2 id="download"> Install</h2>
 
 1. Clone repository
 
@@ -117,24 +114,5 @@ npm run dev
 php artisan serve
 ```
 
-<h2 id="dukungan">💌 Support Me</h2>
 
-<p>
-Kamu bisa mendukung aku di platform Trakteer! Dukungan kamu akan sangat berarti. Namun, dengan kamu memberikan <i>star</i> pada <i>project</i> ini juga sudah sangat cukup kok~!
-</p>
 
-<a href="https://trakteer.id/alfianchii/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<h2 id="kontribusi">🤝 Contributing</h2>
-
-<p>
-<i>Contributions, issues and feature requests</i> sangat diapresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk melakukan <i>pull request</i> dan membuat perubahan pada <i>project</i> ini, yaaa!
-</p>
-
-<h2 id="lisensi">📝 License</h2>
-
-<p>Confess is open-sourced software licensed under the MIT license.</p>
-
-<h2 id="pembuat">🧍 Author</h2>
-
-<p>Confess dibuat oleh <a href="https://instagram.com/alfianchii">Alfian</a> dan <a href="https://instagram.com/nata_ardhana">Surya</a>.</p>
